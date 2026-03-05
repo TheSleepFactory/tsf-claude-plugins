@@ -1,0 +1,14 @@
+{
+  "commitTypeToLabel": {
+    "feat": "enhancement",
+    "fix": "bug",
+    "docs": "documentation",
+    "refactor": null,
+    "test": null,
+    "chore": null,
+    "style": null,
+    "perf": "performance",
+    "ci": null,
+    "build": null
+  }
+}

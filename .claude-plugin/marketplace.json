@@ -1,0 +1,12 @@
+{
+  "name": "pasa-plugins",
+  "description": "Pasa 팀 공용 Claude Code 플러그인",
+  "owner": { "name": "TheSleepFactory" },
+  "plugins": [
+    {
+      "name": "pasa-team",
+      "description": "커밋, PR 생성 등 팀 공용 스킬",
+      "source": "./plugins/pasa-team"
+    }
+  ]
+}
