@@ -9,7 +9,7 @@ tsf-claude-plugins/
 ├── .claude-plugin/
 │   └── marketplace.json       ← 마켓플레이스 정의
 └── plugins/
-    └── pasa-team/             ← 팀 공용 플러그인
+    └── tsf-team/             ← 팀 공용 플러그인
         ├── .claude-plugin/
         │   └── plugin.json
         └── skills/
@@ -21,4 +21,4 @@ tsf-claude-plugins/
 
 프로젝트의 `.claude/settings.json`에서 마켓플레이스를 등록하면 자동으로 플러그인을 사용할 수 있습니다.
 
-자세한 설치 방법은 [pasa-team README](./plugins/pasa-team/README.md)를 참조하세요.
+자세한 설치 방법은 [tsf-team README](./plugins/tsf-team/README.md)를 참조하세요.
