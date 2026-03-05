@@ -1,11 +1,11 @@
-# Pasa Claude Plugins
+# TSF Claude Plugins
 
-Pasa 팀 공용 Claude Code 플러그인 마켓플레이스입니다.
+TheSleepFactory 공용 Claude Code 플러그인 마켓플레이스입니다.
 
 ## 구조
 
 ```
-pasa-claude-plugins/
+tsf-claude-plugins/
 ├── .claude-plugin/
 │   └── marketplace.json       ← 마켓플레이스 정의
 └── plugins/
